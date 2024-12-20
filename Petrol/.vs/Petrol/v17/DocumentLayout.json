@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melik\\Desktop\\Petrol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:Petrol\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|c:\\users\\melik\\desktop\\petrol\\petrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|C:\\Users\\melik\\Desktop\\Petrol\\petrol\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|C:\\Users\\melik\\Desktop\\Petrol\\petrol\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|C:\\Users\\melik\\Desktop\\Petrol\\petrol\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|C:\\Users\\melik\\Desktop\\Petrol\\petrol\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|C:\\Users\\melik\\Desktop\\Petrol\\petrol\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|c:\\users\\melik\\desktop\\petrol\\petrol\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|c:\\users\\melik\\desktop\\petrol\\petrol\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FDF0CA-A20F-4EC2-A021-CBD866A6880A}|Petrol\\Petrol.csproj|solutionrelative:petrol\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form4.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form4.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form4.cs",
+              "RelativeToolTip": "Petrol\\Form4.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvxUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:14:58.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form3.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form3.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form3.cs",
+              "RelativeToolTip": "Petrol\\Form3.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvxUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:14:00.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form4.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form4.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form4.cs [Design]",
+              "RelativeToolTip": "Petrol\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:19:27.381Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form3.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form3.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form3.cs [Design]",
+              "RelativeToolTip": "Petrol\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:19:25.062Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form1.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form1.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form1.cs",
+              "RelativeToolTip": "Petrol\\Form1.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAwwDsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:46:44.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form1.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form1.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form1.cs [Design]",
+              "RelativeToolTip": "Petrol\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:46:42.373Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form2.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form2.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form2.cs",
+              "RelativeToolTip": "Petrol\\Form2.cs",
+              "ViewState": "AQIAAPEAAAAAAAAAAAAwwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:38:36.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form2.cs",
+              "RelativeDocumentMoniker": "Petrol\\Form2.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\Form2.cs [Design]",
+              "RelativeToolTip": "Petrol\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:20:04.836Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\DataBaseHelper.cs",
+              "RelativeDocumentMoniker": "Petrol\\DataBaseHelper.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\Petrol\\Petrol\\DataBaseHelper.cs",
+              "RelativeToolTip": "Petrol\\DataBaseHelper.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAcAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:08:43.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
